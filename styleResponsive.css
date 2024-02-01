@@ -5,7 +5,9 @@
   }
 }
 @media (max-width: 599px){
-
+  html, body{
+    overflow-x: clip;
+  }
   .hero-text{
     align-self: center;
   }
