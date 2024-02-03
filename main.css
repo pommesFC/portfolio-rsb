@@ -6,7 +6,10 @@
   padding: 0;
   scroll-behavior: smooth;
 }
-
+link[rel='icon']{
+  border-radius: 50%;
+  overflow: hidden;
+}
 :root,
 body {
   color: #333f49;
